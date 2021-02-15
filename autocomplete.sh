@@ -46,4 +46,4 @@ _kaptian_autocomplete() #  By convention, the function name starts with an under
 
 
 
-complete -F _kaptian_autocomplete -o filenames kapitan2
+complete -F _kaptian_autocomplete -o filenames kapitan
